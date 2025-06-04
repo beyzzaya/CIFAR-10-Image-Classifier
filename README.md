@@ -13,5 +13,4 @@ truck).
   `Flatten → Dense(256) → Dropout → Dense(10, softmax)`.
 - **Training** — Adam optimiser, categorical cross-entropy, 30 epochs.
 - **Result** — reaches **≈ 75 % validation accuracy** by epoch 25  
-  (*may vary on different hardware*).
-- Notebook cells include concise Turkish comments explaining each step.
+
